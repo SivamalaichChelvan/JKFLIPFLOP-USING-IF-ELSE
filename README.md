@@ -47,5 +47,6 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **TIMING DIGRAMS FOR FLIP FLOPS**
 <img width="1723" height="930" alt="Screenshot 2026-05-29 115620" src="https://github.com/user-attachments/assets/12ad99ac-b5af-40c7-b131-62170a6717ee" />
 
-**RESULTS**
+**RESULT:**
+
 Thus, the JK flip-flop executed successfully.
